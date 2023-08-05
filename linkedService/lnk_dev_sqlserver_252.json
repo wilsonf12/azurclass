@@ -1,0 +1,12 @@
+{
+	"name": "lnk_dev_sqlserver_252",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=False;data source=dev-sqlserver-252.database.windows.net;initial catalog=sqldb252;user id=sqladmin",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDEzMjFBQzJBLTg2NzQtNEExRS05N0U3LTdEMUIzOTEzRDJCNV9lMWE1ZTQwOS0wMGFkLTQxY2ItYmY0OC1lYmNlNzcxZmM5NzQiDQp9"
+		}
+	}
+}

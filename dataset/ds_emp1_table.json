@@ -1,0 +1,16 @@
+{
+	"name": "ds_emp1_table",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "lnk_dev_sqlserver_252",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "emp1"
+		}
+	}
+}
