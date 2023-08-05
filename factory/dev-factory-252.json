@@ -1,0 +1,9 @@
+{
+	"name": "dev-factory-252",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ed28b162-dad7-4491-9de4-9039d4d65d95",
+		"tenantId": "e50ebc84-76f2-4636-b550-c3f7abc924af"
+	}
+}
